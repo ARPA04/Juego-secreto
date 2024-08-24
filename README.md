@@ -29,7 +29,8 @@ El Juego del Número Secreto es un juego dentro de una página web, donde el sis
 
 ## 🔍 Deploy
 
-[https://arpa04.github.io/juego-secreto/](https://arpa04.github.io/juego-secreto/)
+[https://arpa04.github.io/juego-secreto/](https://arpa04.github.io/Juego-secreto/)
+
 
 
 
